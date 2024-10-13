@@ -33,11 +33,7 @@ This project is not open for cloning or distribution. However, if you're interes
 
 ## Contribution
 
-We welcome interest in collaboration and feedback! If you have suggestions or would like to discuss potential partnerships, please get in touch.
-
-## Acknowledgments
-
-- Special thanks to Fidelity for sponsoring the **Best DEI Hack** and for their commitment to promoting Diversity, Equity, and Inclusion in technology.
+I welcome interest in collaboration and feedback! If you have suggestions or would like to discuss potential partnerships, please get in touch.
 
 ---
 
