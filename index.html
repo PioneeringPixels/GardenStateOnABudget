@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garden State On a Budget</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container-form-reglogin">
+        <h1>Garden State On a Budget</h1>
+        <div id="auth-container">
+            <div id="register-container">
+                <h2>Register</h2>
+                <form id="register-form" action="/register" method="POST">
+    <input type="text" id="username" name="username" placeholder="Usrname" required> <!-- Updated name -->
+    <input type="email" id="email" name="email" placeholder="Email" required>
+    <input type="password" id="pwd" name="pwd" placeholder="Password" required>
+    <button type="submit">Register</button>
+</form>
+
+
+                <p id="register-message"></p>
+            </div>
+
+            <div id="login-container">
+                <h2>Login</h2>
+                <form id="login-form"  action="/login" method="POST">
+                    <input type="email" name = "loginEmail" id="login-email" placeholder="Email" required>
+                    <input type="password" name = "loginPwd" id="login-password" placeholder="Password" required>
+                    <button type="submit">Login</button>
+                </form>
+                <p id="login-message"></p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="index.js"></script>
+</body>
+</html>
