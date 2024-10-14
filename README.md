@@ -25,7 +25,6 @@ My mission is to provide an innovative solution that empowers individuals from a
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express
 - **Database**: MySQL
-- **Authentication**: JWT (JSON Web Tokens) for secure user sessions
 
 ## Getting Started
 
