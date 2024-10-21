@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Garden State On A Budget** is a financial technology (fintech) budgeting application designed to promote accessibility and inclusion in gardening by enabling users to manage their gardening activities effectively while staying within budget constraints. This project is created as part of the **Best DEI Hack** sponsored by Fidelity, emphasizing the importance of Diversity, Equity, and Inclusion in the financial tech landscape.
+Awarded **Best Open Source Project** of MLH's October 2024 Open Source Hackfest, **Garden State On A Budget** is a financial technology (fintech) budgeting application designed to promote accessibility and inclusion in gardening by enabling users to manage their gardening activities effectively while staying within budget constraints.
 
 ### Mission
 
